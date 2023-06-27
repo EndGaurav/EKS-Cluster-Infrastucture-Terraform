@@ -15,3 +15,9 @@
 - aws elastic ip.
 - aws EKS cluster.
 - aws EKS Node group.
+
+# What's After this:-
+- I have created end to end jenkins declarative pipeline.
+- I have pulled code from github and deploy it on this EKS Cluster.
+- Must checkout that repository.
+- repo url: https://github.com/EndGaurav/demo-counter-app 
